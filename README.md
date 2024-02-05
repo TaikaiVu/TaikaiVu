@@ -1,7 +1,7 @@
 Hello ! 👋 My name is Taikai Vu
 ==========================
 ### About Me
-==========================
+
 
 I am an aspiring developer with a passion for exploring new technologies, committed to career development and contributing to innovative projects !
 
