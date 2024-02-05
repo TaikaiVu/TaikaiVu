@@ -7,7 +7,7 @@ I am an aspiring developer with a passion for exploring new technologies, commit
 * ✉️  You can contact me at [taikaiduong@gmail.com](mailto:taikaiduong@gmail.com)
 * 🤝  I'm open to collaborating on Projects, any open position
 
-### Skills
+### Tech Stack
 
 
 <p align="left">
@@ -15,6 +15,6 @@ I am an aspiring developer with a passion for exploring new technologies, commit
 </p>
 
 
-### Socials
+### Connect with me
 
 <p align="left"> <a href="https://www.github.com/TaikaiVu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Taikai-Vu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
