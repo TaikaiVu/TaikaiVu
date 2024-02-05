@@ -1,10 +1,12 @@
-Hi 👋 My name is Taikai Vu
+Hello ! 👋 My name is Taikai Vu
+==========================
+### About Me
 ==========================
 
 I am an aspiring developer with a passion for exploring new technologies, committed to career development and contributing to innovative projects !
 
-* 🌍  I'm based in Canada
-* ✉️  You can contact me at [taikaiduong@gmail.com](mailto:taikaiduong@gmail.com)
+* 🌍  I'm based in Toronto, Canada
+* ✉️  Please feel free to contact me at [taikaiduong@gmail.com](mailto:taikaiduong@gmail.com)
 * 🤝  I'm open to collaborating on Projects, any open position
 
 ### Tech Stack
