@@ -31,7 +31,7 @@ Developer tools:
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40" />
 
 
   <!-- Xcode Icon -->
