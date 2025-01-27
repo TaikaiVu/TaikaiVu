@@ -8,7 +8,7 @@ I am an aspiring developer with a passion for exploring new technologies, commit
 * 🌍  I'm based in Toronto, Canada
 * ✉️  Please feel free to contact me at [taikaiduong@gmail.com](mailto:taikaiduong@gmail.com)
 * 🤝   I am open to collaborate on any projects, exploring new and challenging career opportunities that align with my passion for innovation and growth
-* 🚀  I am currently part of a cross-functional team of 5 developing a stock/inventory management application for a client located in downtown Toronto. We are tasked with creating a bespoke application tailored to the client's specific needs, with an expected delivery by May. My responsibilities are focused on the backend, where I am implementing a microservices architecture using Spring(Java). This approach allows us to efficiently handle authorization, event tracking, and incorporate various other logics, ensuring a robust and scalable solution for our client.
+* 🚀  Currently serving as a Technology Consultant with a focus on performing in-depth assessments of business technology stacks. Eager to transition into a developer role with a focus on AI and cloud computing, where I can leverage my experience of interacting with real world business application and passion for developing innovative, problem-solving solutions.
 
 ### Tech Stack
 
