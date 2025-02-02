@@ -63,8 +63,7 @@ Developer tools:
   <!-- Jira Icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" />
 
-  <!-- GCP Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" />
+
 
 </div>
 
