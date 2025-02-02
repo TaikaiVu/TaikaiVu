@@ -63,6 +63,7 @@ Developer tools:
   <!-- Jira Icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" />
 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
 
 
 </div>
